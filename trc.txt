@@ -1,0 +1,9785 @@
+2015-04-12 14:47:42
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'fdsfsdfsfsd',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'smbk',
+)
+2015-04-12 15:01:03
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '9gfe',
+)
+2015-04-12 15:02:29
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'd9hx',
+)
+2015-04-12 15:14:03
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'hps3',
+)
+2015-04-12 15:14:12
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '43zw',
+)
+2015-04-12 15:22:36
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '357t',
+)
+2015-04-12 15:25:14
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'pztm',
+)
+2015-04-12 15:26:08
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'xbgm',
+)
+2015-04-12 15:27:26
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => '',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'swux',
+)
+2015-04-12 15:28:21
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'www',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'xwee',
+)
+2015-04-12 15:29:23
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'gnmg',
+)
+2015-04-12 15:29:45
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'tpcp',
+)
+2015-04-12 15:48:18
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '7mak',
+)
+2015-04-12 15:48:52
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'dsex',
+)
+2015-04-12 15:49:22
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'rbyu',
+)
+2015-04-12 15:51:11
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'z3rf',
+)
+2015-04-12 16:11:53
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'eetg',
+)
+2015-04-12 17:40:55
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'eetg',
+)
+2015-04-12 17:41:04
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'f7bg',
+)
+2015-04-12 17:41:15
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'k4pv',
+)
+2015-04-12 17:42:37
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ncuw',
+)
+2015-04-12 17:43:11
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'yb3s',
+)
+2015-04-12 17:46:41
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'mzwa',
+)
+2015-04-12 17:46:53
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'hrvf',
+)
+2015-04-12 18:04:16
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'rhne',
+)
+2015-04-12 18:08:05
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'gd2m',
+)
+2015-04-12 18:10:04
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'vggk',
+)
+2015-04-12 18:10:44
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'wecp',
+)
+2015-04-12 18:13:00
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'xefz',
+)
+2015-04-12 19:00:45
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'rkv8',
+)
+2015-04-12 19:06:10
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'sd4p',
+)
+2015-04-12 19:06:21
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'hsar',
+)
+2015-04-12 19:08:11
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'esf6',
+)
+2015-04-12 19:08:24
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'g4ve',
+)
+2015-04-12 19:08:35
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'b8hp',
+)
+2015-04-12 19:10:27
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'uvn8',
+)
+2015-04-12 19:15:53
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'pdnm',
+)
+2015-04-12 19:32:44
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'exxd',
+)
+2015-04-12 19:33:58
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'kkt4',
+)
+2015-04-12 19:35:43
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '2f37',
+)
+2015-04-12 19:36:55
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'mbpr',
+)
+2015-04-12 19:37:45
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '7dmh',
+)
+2015-04-12 20:00:34
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '6zcn',
+)
+2015-04-12 21:28:11
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'CSXB',
+)
+2015-04-12 21:28:20
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'W6C9',
+)
+2015-04-12 21:28:28
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'U9ZE',
+)
+2015-04-12 21:35:17
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'zjfhy.com',
+  'lockdays' => '3',
+  'verifycheck' => 'cyrx',
+)
+2015-04-12 21:36:05
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => 'zjfhy.com',
+  'lockdays' => '3',
+  'verifycheck' => '2ghf',
+)
+2015-04-12 21:36:46
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => 'zjfhy.com',
+  'lockdays' => '3',
+  'verifycheck' => 'pu3f',
+)
+2015-04-12 21:46:05
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '7',
+  'verifycheck' => '4mfx',
+)
+2015-04-12 22:14:17
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '5BFA',
+)
+2015-04-12 22:14:39
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '5BFA',
+)
+2015-04-12 22:14:58
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '6dyu',
+)
+2015-04-12 22:33:22
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'encoded by codevip518@163.com',
+  'vipcode' => 'J209I0IJ0G0JDPSPOP',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'nmhs',
+)
+2015-04-12 22:42:28
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'encoded by codevip518@163.com',
+  'vipcode' => 'J209I0IJ0G0JDPSPOP',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '6grt',
+)
+2015-04-12 23:26:21
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'wx.ionew.cn',
+  'lockdays' => '-1',
+  'verifycheck' => 'e5te',
+)
+2015-04-13 00:31:45
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'http://wx.ionew.cn',
+  'lockdays' => '-1',
+  'verifycheck' => 'ubkp',
+)
+2015-04-13 09:12:56
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'lwscword',
+  'vipcode' => 'lllws20150326',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '7cvt',
+)
+2015-04-13 09:13:48
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'kefd',
+)
+2015-04-13 12:13:43
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ANR4',
+)
+2015-04-13 12:13:52
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'N825',
+)
+2015-04-13 12:14:01
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'P77X',
+)
+2015-04-13 17:40:14
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'nmy7',
+)
+2015-04-13 17:42:22
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'mxau',
+)
+2015-04-13 18:46:27
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 't62f',
+)
+2015-04-13 21:03:27
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'hure',
+)
+2015-04-13 22:04:02
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'z6m8',
+)
+2015-04-13 23:26:11
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'nsea',
+)
+2015-04-13 23:26:26
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'z8tb',
+)
+2015-04-13 23:26:40
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 's9xb',
+)
+2015-04-13 23:29:52
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'm5dm',
+)
+2015-04-13 23:47:02
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'gntd',
+)
+2015-04-13 23:54:57
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'csmv',
+)
+2015-04-13 23:55:24
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'hzpz',
+)
+2015-04-13 23:55:36
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'pbye',
+)
+2015-04-13 23:55:49
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'sc4m',
+)
+2015-04-14 01:32:04
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'mew6',
+)
+2015-04-14 01:32:14
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'tfyh',
+)
+2015-04-14 01:32:22
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ddmw',
+)
+2015-04-14 01:32:57
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'x6tk',
+)
+2015-04-14 01:33:06
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'n3mz',
+)
+2015-04-14 01:33:17
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'pddt',
+)
+2015-04-14 01:33:31
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'mhd9',
+)
+2015-04-14 01:40:22
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'zesd',
+)
+2015-04-14 01:41:04
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'sdeb',
+)
+2015-04-14 01:45:56
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'zfp3',
+)
+2015-04-14 01:46:23
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ae6x',
+)
+2015-04-14 01:46:37
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '2vrf',
+)
+2015-04-14 01:52:23
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'fnwm',
+)
+2015-04-14 01:53:51
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '6hgf',
+)
+2015-04-14 09:23:07
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'nmvz',
+)
+2015-04-14 09:31:25
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'dbpm',
+)
+2015-04-14 09:51:44
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'sfe6',
+)
+2015-04-14 13:49:09
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'mFeg',
+)
+2015-04-14 14:13:21
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ngtm',
+)
+2015-04-14 14:13:30
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ZMSY',
+)
+2015-04-14 14:13:53
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'UKXG',
+)
+2015-04-14 14:14:13
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'KRW2',
+)
+2015-04-14 14:14:33
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'NSXV',
+)
+2015-04-14 14:14:51
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '9G9N',
+)
+2015-04-14 14:15:14
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '5TUS',
+)
+2015-04-14 14:21:48
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'gd3s',
+)
+2015-04-14 14:21:57
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '79ny',
+)
+2015-04-14 14:22:11
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'bktd',
+)
+2015-04-14 14:22:39
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '7fmg',
+)
+2015-04-14 14:22:43
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '8zvc',
+)
+2015-04-14 14:54:20
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'fzug',
+)
+2015-04-14 15:00:06
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '78et',
+)
+2015-04-14 15:00:49
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '8yzt',
+)
+2015-04-14 15:23:29
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'MRVS',
+)
+2015-04-14 15:23:38
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'RXYW',
+)
+2015-04-14 15:23:46
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'HHHN',
+)
+2015-04-14 15:47:14
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'r8ku',
+)
+2015-04-14 15:49:04
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-14 15:55:36
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ECFK',
+)
+2015-04-14 15:56:28
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'CVu6',
+)
+2015-04-14 16:34:34
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'www.destoon.cc',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'www.haodianli.com',
+  'lockdays' => '10',
+  'verifycheck' => 'b8wk',
+)
+2015-04-14 16:37:35
+array (
+  'type' => 'zip',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-14 16:56:48
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'bykk',
+)
+2015-04-14 18:02:39
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'mcmn',
+)
+2015-04-14 18:12:31
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'KMAW',
+)
+2015-04-14 18:12:40
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'YKZ5',
+)
+2015-04-14 19:24:07
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'afes',
+)
+2015-04-14 20:04:20
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'zsc5',
+)
+2015-04-14 21:04:49
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => 'divfu.com',
+  'lockdays' => '-1',
+  'verifycheck' => 'z3hd',
+)
+2015-04-14 21:28:32
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'mpb7',
+)
+2015-04-14 21:48:13
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'f7bw',
+)
+2015-04-14 21:52:00
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'VFHB',
+)
+2015-04-14 21:52:02
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'tzxh',
+)
+2015-04-14 21:52:08
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'XZWT',
+)
+2015-04-14 21:52:16
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '2WMU',
+)
+2015-04-14 21:53:07
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'sykw',
+)
+2015-04-14 22:25:08
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'pnzb',
+)
+2015-04-14 22:27:02
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'yvym',
+)
+2015-04-14 22:28:53
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => '3k3k',
+)
+2015-04-14 22:29:08
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'gzy8',
+)
+2015-04-14 22:29:51
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'xzza',
+)
+2015-04-14 22:30:21
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'zs54',
+)
+2015-04-14 22:31:02
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'zp3x',
+)
+2015-04-14 22:31:16
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'wg5u',
+)
+2015-04-14 22:38:37
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'abhr',
+)
+2015-04-14 22:38:59
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'vahg',
+)
+2015-04-14 22:39:31
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'rf86',
+)
+2015-04-14 22:39:50
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => '7gs2',
+)
+2015-04-14 22:40:08
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'mntu',
+)
+2015-04-14 22:40:22
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'rdxe',
+)
+2015-04-14 22:40:41
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => '23be',
+)
+2015-04-14 22:40:58
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'g4my',
+)
+2015-04-14 22:41:15
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'mn8t',
+)
+2015-04-14 22:41:32
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'kenf',
+)
+2015-04-14 22:41:51
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'prev',
+)
+2015-04-14 22:42:09
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'xt5g',
+)
+2015-04-14 22:42:30
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'x9yt',
+)
+2015-04-14 22:42:50
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'anb5',
+)
+2015-04-14 22:44:52
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'an9g',
+)
+2015-04-14 22:44:59
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '360',
+  'verifycheck' => 'kpw3',
+)
+2015-04-14 22:51:15
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'kpw3',
+)
+2015-04-14 22:51:43
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'vmfa',
+)
+2015-04-14 22:52:07
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'rsdh',
+)
+2015-04-14 23:00:46
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'yacb',
+)
+2015-04-14 23:29:55
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => '',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'mtvv',
+)
+2015-04-14 23:30:14
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => '',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'wddh',
+)
+2015-04-14 23:30:28
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => '',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'zpyc',
+)
+2015-04-15 03:05:19
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'wexd',
+)
+2015-04-15 05:52:01
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'dvcp',
+)
+2015-04-15 08:55:15
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'encoded by baidu',
+  'vipcode' => 'demobaidu',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-15 08:55:50
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'encoded by baidu',
+  'vipcode' => 'baidu',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'FCAd',
+)
+2015-04-15 08:56:14
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'tegs',
+)
+2015-04-15 09:21:07
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'wrry',
+)
+2015-04-15 09:39:09
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '2b95',
+)
+2015-04-15 09:42:05
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 's3bf',
+)
+2015-04-15 10:15:51
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-15 10:16:01
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '4u5h',
+)
+2015-04-15 10:23:46
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '4u5h',
+)
+2015-04-15 10:24:05
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'w6mk',
+)
+2015-04-15 10:39:28
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '7mvs',
+)
+2015-04-15 12:44:52
+array (
+  'type' => 'zip',
+  'type0' => 'zip',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'encoded by http://www.cxcyqp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'www.cxcyqp.com',
+  'lockdays' => '300',
+  'verifycheck' => 'ykmg',
+)
+2015-04-15 12:45:08
+array (
+  'type' => 'zip',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'encoded by http://www.cxcyqp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'www.cxcyqp.com',
+  'lockdays' => '300',
+  'verifycheck' => 'ykmg',
+)
+2015-04-15 12:45:30
+array (
+  'type' => 'zip',
+  'type0' => 'zip',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'www.cxcyqp.com',
+  'lockdays' => '365',
+  'verifycheck' => 'frdh',
+)
+2015-04-15 12:46:06
+array (
+  'type' => 'zip',
+  'type0' => 'zip',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'www.cxcyqp.com',
+  'lockdays' => '365',
+  'verifycheck' => 'r9dh',
+)
+2015-04-15 12:46:10
+array (
+  'type' => 'zip',
+  'type0' => 'zip',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'www.cxcyqp.com',
+  'lockdays' => '365',
+  'verifycheck' => 'r9dh',
+)
+2015-04-15 12:46:35
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'www.cxcyqp.com',
+  'lockdays' => '365',
+  'verifycheck' => 'UGKM',
+)
+2015-04-15 13:08:36
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '3h5v',
+)
+2015-04-15 13:11:43
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '3mwn',
+)
+2015-04-15 13:13:44
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '7cnu',
+)
+2015-04-15 13:16:43
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '8dru',
+)
+2015-04-15 13:29:31
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-15 13:59:00
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'rtv7',
+)
+2015-04-15 16:20:45
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'nwck',
+)
+2015-04-15 16:20:54
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ee4d',
+)
+2015-04-15 16:21:03
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'zr9g',
+)
+2015-04-15 16:27:39
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'NEVM',
+)
+2015-04-15 16:27:55
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ECHW',
+)
+2015-04-15 16:28:02
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'S63A',
+)
+2015-04-15 16:35:04
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'wbdp',
+)
+2015-04-15 16:38:49
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '336s',
+)
+2015-04-15 16:39:03
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'sxum',
+)
+2015-04-15 16:48:23
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'rcut',
+)
+2015-04-15 16:48:32
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'p3s5',
+)
+2015-04-15 16:48:44
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '6cze',
+)
+2015-04-15 16:53:06
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ufxr',
+)
+2015-04-15 17:14:09
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'emyc',
+)
+2015-04-15 17:14:29
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'kfuz',
+)
+2015-04-15 17:14:47
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'zzw7',
+)
+2015-04-15 20:48:56
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'vdea',
+)
+2015-04-15 20:49:44
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'byup',
+)
+2015-04-15 20:49:56
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'zwba',
+)
+2015-04-16 00:14:41
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'uauh',
+)
+2015-04-16 00:14:57
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'mwuh',
+)
+2015-04-16 10:56:24
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'yyga.cc',
+  'lockdays' => '-1',
+  'verifycheck' => 'mgd9',
+)
+2015-04-16 11:13:53
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'nxda',
+)
+2015-04-16 11:44:19
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '5adh',
+)
+2015-04-16 12:21:14
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '5D2E',
+)
+2015-04-16 12:21:17
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'GTX4',
+)
+2015-04-16 12:21:25
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'CNHU',
+)
+2015-04-16 12:21:32
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'PFUA',
+)
+2015-04-16 12:21:43
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'PFUA',
+)
+2015-04-16 12:21:58
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'TVVS',
+)
+2015-04-16 14:37:11
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-16 14:47:58
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '3wdw',
+)
+2015-04-16 14:48:17
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '3wdw',
+)
+2015-04-16 14:48:28
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'dgcx',
+)
+2015-04-16 16:21:23
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ufcp',
+)
+2015-04-16 16:27:34
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'tmkh',
+)
+2015-04-16 16:27:52
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'wEVf',
+)
+2015-04-16 23:40:01
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'evaa',
+)
+2015-04-17 01:33:36
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'neub',
+)
+2015-04-17 09:28:01
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '2pdh',
+)
+2015-04-17 09:33:38
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'bc2r',
+)
+2015-04-17 12:57:39
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '2mnr',
+)
+2015-04-17 12:57:57
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '3zge',
+)
+2015-04-17 12:59:53
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'sycv',
+)
+2015-04-17 13:40:23
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'wecm',
+)
+2015-04-17 13:44:03
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '99pa',
+)
+2015-04-17 13:45:39
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'encoded by http://www.tmholter.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'xmke',
+)
+2015-04-17 13:46:45
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'encoded by http://www.tmholter.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'afgf',
+)
+2015-04-17 13:48:44
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://www.tmholter.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'www.tmholter.com',
+  'lockdays' => '-1',
+  'verifycheck' => 'mpct',
+)
+2015-04-17 13:49:05
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'www.tmholter.com',
+  'lockdays' => '-1',
+  'verifycheck' => '39u3',
+)
+2015-04-17 13:53:20
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'yug3',
+)
+2015-04-17 14:02:59
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ea6d',
+)
+2015-04-17 14:08:56
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'zxsc',
+)
+2015-04-17 14:09:53
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'xpwh',
+)
+2015-04-17 14:55:01
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '9hub',
+)
+2015-04-17 14:55:13
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'wshz',
+)
+2015-04-17 14:56:03
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ybe8',
+)
+2015-04-17 15:11:48
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'gy3g',
+)
+2015-04-17 15:27:09
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-17 17:22:53
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'bdxd',
+)
+2015-04-17 17:26:39
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 's2ec',
+)
+2015-04-17 17:32:43
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ksyx',
+)
+2015-04-17 20:56:36
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'TVNN',
+)
+2015-04-17 20:56:46
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'g2ha',
+)
+2015-04-17 20:56:58
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'kycm',
+)
+2015-04-17 20:57:07
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'pk9k',
+)
+2015-04-17 20:57:16
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'kcv7',
+)
+2015-04-17 21:49:16
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'TEUM',
+)
+2015-04-17 21:49:24
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'KYFR',
+)
+2015-04-17 21:49:32
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'AAMP',
+)
+2015-04-17 22:27:07
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 't7vg',
+)
+2015-04-17 22:27:21
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'me2y',
+)
+2015-04-17 22:27:29
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '7yer',
+)
+2015-04-17 22:27:41
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'z4rr',
+)
+2015-04-17 22:28:27
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'a5t3',
+)
+2015-04-17 22:28:36
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'anbn',
+)
+2015-04-17 22:28:46
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ng7a',
+)
+2015-04-17 22:33:54
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '7ezs',
+)
+2015-04-17 22:36:14
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'vckk',
+)
+2015-04-17 22:52:31
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'gvhb',
+)
+2015-04-18 01:14:32
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'vckr',
+)
+2015-04-18 01:15:45
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '272m',
+)
+2015-04-18 01:16:16
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '5w5r',
+)
+2015-04-18 01:16:25
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '5w5r',
+)
+2015-04-18 01:18:35
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '9nnp',
+)
+2015-04-18 01:18:44
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '9nnp',
+)
+2015-04-18 02:00:43
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '6ag7',
+)
+2015-04-18 04:37:37
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'faxp',
+)
+2015-04-18 10:05:04
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'destoon by http://www.destoon.cc',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '37b2b.com,www.37b2b.com',
+  'lockdays' => '10',
+  'verifycheck' => 'mp2t',
+)
+2015-04-18 10:05:48
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'destoon by http://www.destoon.cc',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '37b2b.com,www.37b2b.com',
+  'lockdays' => '10',
+  'verifycheck' => '2r2s',
+)
+2015-04-18 10:06:41
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '37b2b.com,www.37b2b.com',
+  'lockdays' => '10',
+  'verifycheck' => 'nt29',
+)
+2015-04-18 10:07:03
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '37b2b.com,www.37b2b.com',
+  'lockdays' => '10',
+  'verifycheck' => 'mrc3',
+)
+2015-04-18 10:07:36
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '37b2b.com,www.37b2b.com',
+  'lockdays' => '10',
+  'verifycheck' => 'a7ky',
+)
+2015-04-18 10:09:24
+array (
+  'type' => 'zip',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-18 11:13:04
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'shza',
+)
+2015-04-18 11:13:12
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'pw2y',
+)
+2015-04-18 11:13:19
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'sfb2',
+)
+2015-04-18 12:19:46
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '30',
+  'verifycheck' => 'etmw',
+)
+2015-04-18 12:19:57
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '30',
+  'verifycheck' => 'fkze',
+)
+2015-04-18 12:55:49
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'PAF7',
+)
+2015-04-18 13:28:32
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'encoded by http://www.xt555.com',
+  'vipcode' => 'xxxxxasa',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'rfm8',
+)
+2015-04-18 13:28:49
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://www.xt555.com',
+  'vipcode' => 'xxxxxasa',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'zsgf',
+)
+2015-04-18 13:29:00
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'asn7',
+)
+2015-04-18 13:29:33
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'rgkr',
+)
+2015-04-18 13:40:58
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'http://www.ygoubao.co',
+  'lockdays' => '-1',
+  'verifycheck' => 'sxhc',
+)
+2015-04-18 13:46:37
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'http://www.ygoubao.com',
+  'lockdays' => '-1',
+  'verifycheck' => 'afrm',
+)
+2015-04-18 15:01:02
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '7SVB',
+)
+2015-04-18 15:01:11
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'BVSU',
+)
+2015-04-18 15:01:19
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'YUY5',
+)
+2015-04-18 15:04:45
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'unrb',
+)
+2015-04-18 16:44:21
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'G6NG',
+)
+2015-04-18 16:44:31
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '2SCZ',
+)
+2015-04-18 16:44:39
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'CPUB',
+)
+2015-04-18 18:37:11
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'hmcn',
+)
+2015-04-18 18:40:54
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'bgsm',
+)
+2015-04-18 18:44:12
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'uebp',
+)
+2015-04-18 19:31:32
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'emfd',
+)
+2015-04-18 19:31:41
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'wdfr',
+)
+2015-04-18 19:32:11
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'p34x',
+)
+2015-04-18 19:32:20
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'r9vk',
+)
+2015-04-18 19:37:12
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'pbr7',
+)
+2015-04-18 19:38:00
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'mxya',
+)
+2015-04-18 19:38:35
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'nbxv',
+)
+2015-04-18 19:39:22
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'yuv6',
+)
+2015-04-18 19:39:30
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'm5vf',
+)
+2015-04-18 19:40:01
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'fuea',
+)
+2015-04-18 19:41:11
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'petg',
+)
+2015-04-18 19:42:34
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '5y2g',
+)
+2015-04-18 19:43:22
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '4nrm',
+)
+2015-04-18 19:44:42
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'sasu',
+)
+2015-04-18 19:44:56
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'gmx9',
+)
+2015-04-18 19:53:23
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'mvpx',
+)
+2015-04-18 19:53:41
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '2u9e',
+)
+2015-04-18 20:01:26
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'mbza',
+)
+2015-04-18 20:01:39
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyrightDo' => 'on',
+  'copyright' => 'http://shop112093437.taobao.com',
+  'vipcode' => '252620425-REEOKDC',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'nmyw',
+)
+2015-04-18 21:47:52
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'tdcs',
+)
+2015-04-18 22:11:09
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-18 22:11:21
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '9gkw',
+)
+2015-04-18 23:41:55
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'yhxz',
+)
+2015-04-19 00:36:50
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '127.0.0.1',
+  'lockdays' => '-1',
+  'verifycheck' => 'vz99',
+)
+2015-04-19 00:37:06
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '127.0.0.1',
+  'lockdays' => '-1',
+  'verifycheck' => 'bsuu',
+)
+2015-04-19 00:37:19
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '127.0.0.1',
+  'lockdays' => '-1',
+  'verifycheck' => 'kgty',
+)
+2015-04-19 00:45:17
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '127.0.0.1',
+  'lockdays' => '-1',
+  'verifycheck' => 'gyzz',
+)
+2015-04-19 00:48:25
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ffu3',
+)
+2015-04-19 00:59:30
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'zuz9',
+)
+2015-04-19 05:10:56
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-19 05:11:00
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-19 13:04:33
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'www.eazhe.com，eazhe.com',
+  'lockdays' => '-1',
+  'verifycheck' => 'f3pg',
+)
+2015-04-19 13:04:45
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'www.eazhe.com，eazhe.com',
+  'lockdays' => '-1',
+  'verifycheck' => 'w2z4',
+)
+2015-04-19 13:04:56
+array (
+  'type' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'www.eazhe.com，eazhe.com',
+  'lockdays' => '-1',
+  'verifycheck' => 'bch5',
+)
+2015-04-19 19:15:50
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'umz3',
+)
+2015-04-19 19:16:13
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'f234',
+)
+2015-04-19 20:49:21
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ha3m',
+)
+2015-04-19 20:55:24
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'mv6y',
+)
+2015-04-19 20:58:33
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'vipcode' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'zaky',
+)
+2015-04-19 23:18:14
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'encoded by http://phpcxx.sinaapp.com',
+  'openid' => 'oPcagjpECN30MD-FjCKIbwYWgCjA',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-19 23:18:47
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpcxxx.sinaapp.com',
+  'openid' => 'oPcagjpECN30MD-FjCKIbwYWgCjA',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'wtkk',
+)
+2015-04-19 23:19:25
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpcxxx.sinaapp.com',
+  'openid' => 'oPcagjpECN30MD-FjCKIbwYWgCjA',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '6wdh',
+)
+2015-04-19 23:22:48
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpcxxx.sinaapp.com',
+  'openid' => 'oPcagjpECN30MD-FjCKIbwYWgCjA',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '6wdh',
+)
+2015-04-19 23:23:13
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'encoded by http://phpcxxx.sinaapp.com',
+  'openid' => 'oPcagjpECN30MD-FjCKIbwYWgCjA',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'm9sf',
+)
+2015-04-19 23:24:30
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'encoded by http://phpcxxx.sinaapp.com',
+  'openid' => 'oPcagjpECN30MD-FjCKIbwYWgCjA',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'apwp',
+)
+2015-04-19 23:25:35
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'encoded by http://phpcxxx.sinaapp.com',
+  'openid' => 'oPcagjpECN30MD-FjCKIbwYWgCjA',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ws5n',
+)
+2015-04-19 23:25:44
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'encoded by http://phpcxxx.sinaapp.com',
+  'openid' => 'oPcagjpECN30MD-FjCKIbwYWgCjA',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'cgyh',
+)
+2015-04-19 23:54:03
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'xwds',
+)
+2015-04-19 23:55:49
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'k2bv',
+)
+2015-04-19 23:56:11
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'evea',
+)
+2015-04-20 00:01:07
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyrightDo' => 'on',
+  'copyright' => 'eed by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'wznn',
+)
+2015-04-20 00:01:58
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '3axb',
+)
+2015-04-20 12:43:49
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => 'oPcagjmdlmSrdc30PxagaFpqzQ-4',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'yvza',
+)
+2015-04-20 12:44:00
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => 'oPcagjmdlmSrdc30PxagaFpqzQ-4',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ceaf',
+)
+2015-04-20 12:44:14
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => 'oPcagjmdlmSrdc30PxagaFpqzQ-4',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'dg5k',
+)
+2015-04-20 13:33:20
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'http://m.mtkfjd.com/',
+  'lockdays' => '-1',
+  'verifycheck' => 'VRX6',
+)
+2015-04-20 15:06:05
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'vauv',
+)
+2015-04-20 15:06:29
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'xw7t',
+)
+2015-04-20 15:07:43
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'xw7t',
+)
+2015-04-20 15:08:12
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'kk9k',
+)
+2015-04-20 15:10:12
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'kk9k',
+)
+2015-04-20 15:10:27
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '6kb4',
+)
+2015-04-20 15:22:14
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'Z88F',
+)
+2015-04-20 15:22:23
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'WNAW',
+)
+2015-04-20 15:22:34
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'B9VB',
+)
+2015-04-20 16:30:34
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'k64n',
+)
+2015-04-20 19:54:52
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => 'oPcagjseBJ-XyM2Of8ykXYvmyI7M',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '5ACV',
+)
+2015-04-20 21:58:54
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'fxvs',
+)
+2015-04-20 22:15:09
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'http://dssssp.com',
+  'openid' => 'oPcagjpECN30MD-FjCKIbwYWgCjA',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'p2yr',
+)
+2015-04-20 22:31:01
+array (
+  'type' => 'zip',
+  'type0' => 'zip',
+  'charset' => 'utf8',
+  'copyright' => 'sdfgsfsfsfs',
+  'copyrightDo' => 'on',
+  'openid' => 'oPcagjpECN30MD-FjCKIbwYWgCjA',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'pcft',
+)
+2015-04-20 22:32:12
+array (
+  'type' => 'zip',
+  'type0' => 'zip',
+  'charset' => 'utf8',
+  'copyright' => 'sdfgsfsfsfs',
+  'copyrightDo' => 'on',
+  'openid' => 'oPcagjpECN30MD-FjCKIbwYWgCjA',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'phvh',
+)
+2015-04-20 22:33:55
+array (
+  'type' => 'zip',
+  'type0' => 'zip',
+  'charset' => 'utf8',
+  'copyright' => 'sdfgsfsfsfs',
+  'copyrightDo' => 'on',
+  'openid' => 'oPcagjpECN30MD-FjCKIbwYWgCjA',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '2uwc',
+)
+2015-04-20 22:35:38
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => 'oPcagjpECN30MD-FjCKIbwYWgCjA',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'fae6',
+)
+2015-04-20 22:35:52
+array (
+  'type' => 'zip',
+  'type0' => 'zip',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'copyrightDo' => 'on',
+  'openid' => 'oPcagjpECN30MD-FjCKIbwYWgCjA',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '9wvn',
+)
+2015-04-20 22:36:21
+array (
+  'type' => 'zip',
+  'type0' => 'zip',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'copyrightDo' => 'on',
+  'openid' => 'oPcagjpECN30MD-FjCKIbwYWgCjA',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'faxm',
+)
+2015-04-20 22:40:06
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => 'oPcagjpECN30MD-FjCKIbwYWgCjA',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'tdsw',
+)
+2015-04-20 22:41:22
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded byapp.com',
+  'openid' => 'oPcagjpECN30MD-FjCKIbwYWgCjA',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'whgs',
+)
+2015-04-20 22:42:28
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => '透彻士大夫了',
+  'openid' => 'oPcagjpECN30MD-FjCKIbwYWgCjA',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'umap',
+)
+2015-04-20 22:57:45
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'vnv8',
+)
+2015-04-20 22:58:58
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '8ryt',
+)
+2015-04-20 23:00:44
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'skk9',
+)
+2015-04-20 23:01:08
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'bdfc',
+)
+2015-04-20 23:59:12
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '35wt',
+)
+2015-04-20 23:59:27
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'vuxw',
+)
+2015-04-21 04:48:28
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'xkyd',
+)
+2015-04-21 04:49:51
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 's2d6',
+)
+2015-04-21 09:18:41
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '2sg6',
+)
+2015-04-21 11:01:32
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '8HZM',
+)
+2015-04-21 11:01:43
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'yfwz',
+)
+2015-04-21 11:01:56
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'e5dv',
+)
+2015-04-21 13:27:17
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '9ugv',
+)
+2015-04-21 13:27:35
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'rkzv',
+)
+2015-04-21 14:12:22
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ym5m',
+)
+2015-04-21 14:20:24
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'mw83',
+)
+2015-04-21 14:20:38
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'zraf',
+)
+2015-04-21 14:23:13
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '5vkd',
+)
+2015-04-21 14:50:38
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'RUWC',
+)
+2015-04-21 15:08:12
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ZAMH',
+)
+2015-04-21 15:08:21
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'P6S7',
+)
+2015-04-21 15:08:29
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'DGF3',
+)
+2015-04-21 15:19:48
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'y6en',
+)
+2015-04-21 15:20:04
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'vysz',
+)
+2015-04-21 15:28:27
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '5by8',
+)
+2015-04-21 15:28:38
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'sunc',
+)
+2015-04-21 15:28:48
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'dtre',
+)
+2015-04-21 16:26:35
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'tae5',
+)
+2015-04-21 16:31:10
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'yns9',
+)
+2015-04-21 20:12:28
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'mf2x',
+)
+2015-04-21 20:12:36
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '9fsu',
+)
+2015-04-21 21:08:02
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'k9tk',
+)
+2015-04-21 21:22:08
+array (
+  'type' => 'zip',
+  'charset' => 'utf8',
+  'copyright' => 'QQ36885774 http：//a13.ys168.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'k8ez',
+)
+2015-04-21 21:51:32
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'pfzu',
+)
+2015-04-21 21:51:40
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '5zzu',
+)
+2015-04-21 21:51:49
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'UT5N',
+)
+2015-04-21 22:59:44
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'DRP6',
+)
+2015-04-21 22:59:54
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'U6KS',
+)
+2015-04-21 23:00:02
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'YYNH',
+)
+2015-04-21 23:00:11
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '4YZ3',
+)
+2015-04-22 08:04:31
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '6dkc',
+)
+2015-04-22 11:08:03
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'vbzk',
+)
+2015-04-22 11:08:12
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '3hxe',
+)
+2015-04-22 11:08:22
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'vmcb',
+)
+2015-04-22 11:19:54
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'hw65',
+)
+2015-04-22 11:21:50
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'n8be',
+)
+2015-04-22 11:22:41
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ahnd',
+)
+2015-04-22 11:24:22
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'cgsg',
+)
+2015-04-22 11:24:57
+array (
+  'type' => 'files',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'zfnv',
+)
+2015-04-22 11:25:22
+array (
+  'type' => 'files',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '9cbf',
+)
+2015-04-22 11:26:01
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'pcaz',
+)
+2015-04-22 11:26:18
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'x2tf',
+)
+2015-04-22 11:37:07
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'www.baidu.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'c8sd',
+)
+2015-04-22 11:37:31
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'www',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'bzm5',
+)
+2015-04-22 11:37:59
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'ggg',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'dgxk',
+)
+2015-04-22 11:38:06
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'wf78',
+)
+2015-04-22 13:50:56
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '0.5',
+  'verifycheck' => '3bsn',
+)
+2015-04-22 13:51:31
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '0.5',
+  'verifycheck' => 'vmrs',
+)
+2015-04-22 14:52:28
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-22 14:52:35
+array (
+  'type' => 'zip',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-22 14:59:22
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'dgdb',
+)
+2015-04-22 15:57:20
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '3',
+  'verifycheck' => '9uyc',
+)
+2015-04-22 15:57:37
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '3',
+  'verifycheck' => 'exxy',
+)
+2015-04-22 16:48:00
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ZVEC',
+)
+2015-04-22 16:48:08
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'GMHZ',
+)
+2015-04-22 16:48:14
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'CCWS',
+)
+2015-04-22 16:48:21
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'CCWS',
+)
+2015-04-22 18:09:10
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'e7tu',
+)
+2015-04-22 19:21:52
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'gmf8',
+)
+2015-04-22 19:28:51
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '9hvc',
+)
+2015-04-22 19:29:02
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'r4fp',
+)
+2015-04-22 20:32:48
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by dreamcode',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'baidu.com',
+  'lockdays' => '-1',
+  'verifycheck' => '6csw',
+)
+2015-04-22 20:54:41
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'zxrw',
+)
+2015-04-22 20:54:47
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'sn3d',
+)
+2015-04-22 21:05:18
+array (
+  'type' => 'zip',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'nw6e',
+)
+2015-04-22 21:05:50
+array (
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'besr',
+)
+2015-04-22 21:06:02
+array (
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'besr',
+)
+2015-04-22 21:09:44
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'barv',
+)
+2015-04-22 21:19:56
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'sebx',
+)
+2015-04-22 21:57:15
+array (
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'gmrh',
+)
+2015-04-22 21:58:27
+array (
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '4han',
+)
+2015-04-22 21:58:31
+array (
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '4han',
+)
+2015-04-22 21:58:53
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'vpbb',
+)
+2015-04-22 22:04:14
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'g9bm',
+)
+2015-04-22 22:08:35
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-22 22:08:57
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'dsp5',
+)
+2015-04-22 22:11:11
+array (
+  'type' => 'files',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'w2kk',
+)
+2015-04-23 11:39:02
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'baidu.com',
+  'lockdays' => '-1',
+  'verifycheck' => 'U8ZN',
+)
+2015-04-23 14:40:55
+array (
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'a6.1.com',
+  'lockdays' => '-1',
+  'verifycheck' => 'edhd',
+)
+2015-04-23 14:41:00
+array (
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'a6.1.com',
+  'lockdays' => '-1',
+  'verifycheck' => 'edhd',
+)
+2015-04-23 14:41:09
+array (
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'a6.1.com',
+  'lockdays' => '-1',
+  'verifycheck' => 'edhd',
+)
+2015-04-23 14:41:23
+array (
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'a6.1.com',
+  'lockdays' => '-1',
+  'verifycheck' => 'ufee',
+)
+2015-04-23 15:10:55
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'GMUC',
+)
+2015-04-23 15:31:20
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'm9wn',
+)
+2015-04-23 15:31:31
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'mdb4',
+)
+2015-04-23 15:31:38
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'nkfr',
+)
+2015-04-23 16:33:08
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'asyw',
+)
+2015-04-23 16:33:19
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-23 16:33:32
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ergy',
+)
+2015-04-23 16:34:46
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'DVCZ',
+)
+2015-04-23 20:38:06
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'gvua',
+)
+2015-04-23 20:38:17
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ppyd',
+)
+2015-04-23 21:08:31
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'Powered by lafeng.cf',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'vvte',
+)
+2015-04-23 21:09:36
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'trvr',
+)
+2015-04-23 21:36:49
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'baay',
+)
+2015-04-23 21:36:58
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'rcwv',
+)
+2015-04-23 21:37:06
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'zadu',
+)
+2015-04-23 22:28:40
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-23 22:39:31
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'b8mc',
+)
+2015-04-23 22:45:07
+array (
+  'type' => 'files',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'fzzy',
+)
+2015-04-23 22:55:48
+array (
+  'type' => 'files',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'np3w',
+)
+2015-04-23 23:49:39
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'kwdb',
+)
+2015-04-24 00:11:42
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'T2YB',
+)
+2015-04-24 00:11:56
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'gywy',
+)
+2015-04-24 00:13:40
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'gxfs',
+)
+2015-04-24 00:14:37
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'thew',
+)
+2015-04-24 00:20:02
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'wt6s',
+)
+2015-04-24 00:21:01
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'mrz6',
+)
+2015-04-24 00:22:00
+array (
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '5cfz',
+)
+2015-04-24 00:22:01
+array (
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '5cfz',
+)
+2015-04-24 00:22:12
+array (
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'zysg',
+)
+2015-04-24 00:22:18
+array (
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'zysg',
+)
+2015-04-24 00:22:33
+array (
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'g858',
+)
+2015-04-24 00:22:46
+array (
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'vbvw',
+)
+2015-04-24 09:15:43
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'kgtn',
+)
+2015-04-24 09:15:59
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'bppd',
+)
+2015-04-24 09:29:35
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'm9v6',
+)
+2015-04-24 09:48:56
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'deyr',
+)
+2015-04-24 09:49:12
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '3bp3',
+)
+2015-04-24 09:49:13
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '3bp3',
+)
+2015-04-24 09:49:25
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'zdcd',
+)
+2015-04-24 09:49:49
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'gcmp',
+)
+2015-04-24 09:49:50
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'gcmp',
+)
+2015-04-24 09:50:17
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ty3d',
+)
+2015-04-24 09:50:20
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ty3d',
+)
+2015-04-24 09:50:32
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'd6m6',
+)
+2015-04-24 09:50:38
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'd6m6',
+)
+2015-04-24 09:50:49
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'unsx',
+)
+2015-04-24 09:51:04
+array (
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-24 09:51:09
+array (
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-24 09:51:09
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'vggb',
+)
+2015-04-24 09:51:16
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'vggb',
+)
+2015-04-24 09:51:34
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'u6gt',
+)
+2015-04-24 09:51:42
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '5yur',
+)
+2015-04-24 09:54:17
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '8scu',
+)
+2015-04-24 09:54:33
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '3amr',
+)
+2015-04-24 09:55:30
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '6efm',
+)
+2015-04-24 10:02:46
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'kkzy',
+)
+2015-04-24 11:38:44
+array (
+  'type' => 'files',
+  'charset' => 'gbk',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'emny',
+)
+2015-04-24 13:29:08
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'vcsx',
+)
+2015-04-24 13:53:29
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'cmz8',
+)
+2015-04-24 14:51:42
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'zoomx.cn;yicai.com',
+  'lockdays' => '-1',
+  'verifycheck' => 'S8T4',
+)
+2015-04-24 14:53:26
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => 'zoomx.cn;yicai.com',
+  'lockdays' => '-1',
+  'verifycheck' => 'S8T4',
+)
+2015-04-24 15:07:02
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'kxhy',
+)
+2015-04-24 15:08:55
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ezzc',
+)
+2015-04-24 15:09:42
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'KhHB',
+)
+2015-04-24 15:13:32
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '3aH3',
+)
+2015-04-24 15:38:50
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'vuvt',
+)
+2015-04-24 15:49:52
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'rn2h',
+)
+2015-04-24 18:00:21
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'zhm9',
+)
+2015-04-24 18:00:36
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'g9yu',
+)
+2015-04-24 18:17:00
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 's8v3',
+)
+2015-04-24 19:01:34
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'CT23',
+)
+2015-04-24 19:01:44
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'vham',
+)
+2015-04-24 19:01:53
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'm252',
+)
+2015-04-24 19:58:26
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'evsn',
+)
+2015-04-24 19:58:32
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'xhc2',
+)
+2015-04-24 19:59:49
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'UEH7',
+)
+2015-04-24 20:00:36
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'scex',
+)
+2015-04-24 20:01:16
+array (
+  'type' => 'files',
+  'type0' => 'files',
+  'size' => '1',
+  'charset' => 'utf8',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ysu6',
+)
+2015-04-24 22:15:45
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'naw4',
+)
+2015-04-24 22:16:04
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'E453',
+)
+2015-04-24 22:17:51
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'p3ep',
+)
+2015-04-24 22:42:27
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'bbtm',
+)
+2015-04-24 22:42:38
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'dxx6',
+)
+2015-04-24 22:42:47
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'yyzk',
+)
+2015-04-24 22:50:30
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'fac9',
+)
+2015-04-24 22:50:44
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'CCfs',
+)
+2015-04-24 22:52:55
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'dfts',
+)
+2015-04-24 22:55:30
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'yxvt',
+)
+2015-04-24 22:58:28
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'kv3v',
+)
+2015-04-25 01:42:25
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '365',
+  'verifycheck' => 'wyr2',
+)
+2015-04-25 01:44:53
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '365',
+  'verifycheck' => '24ka',
+)
+2015-04-25 01:57:49
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '4e8a',
+)
+2015-04-25 01:58:00
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'bwwz',
+)
+2015-04-25 11:10:46
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '8xst',
+)
+2015-04-25 12:27:36
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'copyrightDo' => 'on',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-25 12:41:35
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '',
+)
+2015-04-25 14:53:52
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'z7nw',
+)
+2015-04-25 14:54:13
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'v39y',
+)
+2015-04-25 17:36:59
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'arpa',
+)
+2015-04-25 17:38:39
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'uzmp',
+)
+2015-04-25 17:45:34
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'bd9p',
+)
+2015-04-25 17:45:43
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'gt2f',
+)
+2015-04-25 17:45:55
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'ey2c',
+)
+2015-04-25 18:09:38
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'sfuu',
+)
+2015-04-25 18:31:06
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'npwy',
+)
+2015-04-25 18:32:59
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'bnte',
+)
+2015-04-25 18:33:19
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '56p3',
+)
+2015-04-25 18:36:15
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'pgzr',
+)
+2015-04-25 18:41:25
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'fdnp',
+)
+2015-04-25 18:41:31
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'fdnp',
+)
+2015-04-25 18:41:52
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => '4ks6',
+)

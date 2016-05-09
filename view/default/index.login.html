@@ -1,0 +1,129 @@
+ 
+
+<style>
+	#userbox p{line-height: 30px;height: 30px; font-size: 12pt}
+</style>
+<DIV style='margin:50px auto;width:300px;padding-right:100px;text-align:center'>
+ <DIV id='loginbox'>
+	 <div style='margin:20px'>
+	 	<h1 style='text-align:center;font-size:18pt;line-height:18pt'>会员登录</h1>
+	 </div>
+
+	 <img src='imgs/qrcode.png' style='width:200px;height:200px'>
+
+	 <br> 
+	 <center>微信扫一扫, 然后输入验证码</center>
+	<div id='loginkey' style='font-size:14pt;color:#e40;font-weight:bold'>...</div>
+     <br> 
+</DIV>
+<DIV ID="userbox"   style="display:none; border:dashed 1px #999;width:340px;text-align:left;padding:20px">
+		<p  style="margin-bottom:50px">
+		<a href='javascript:' id="logout" style='float: right;'>注销</a>
+		<a href='javascript:history.back();'  style='float: left; '>返回</a>
+		</p>
+
+		<p>加密次数剩余： <b id=mycount>...</b>次</p>
+		<p style='display:none'>加密结束日期: <b>2005-06-09</b></p>
+    
+       <p style="margin-top:10px;"><span style='font-size:10pt'>更多VIP加密机会:</span></p>
+    
+       <p>输入VIP码:  <input type="text"  id=vipcode> <input type=button class=button id=addcode value='确定'>
+	   </p>
+    
+    <p style="margin:10px 0px">客服QQ: 43906333 </p>
+    
+
+</DIV>
+</DIV>
+
+<script> 
+	var baseurl="<?=$baseurl?>";
+	var curkey = "";
+	var timer = null;
+var myopenid = $.cookie('openid');
+if(typeof(myopenid)=='undefined' || myopenid.length < 8){
+	$('#userbox').hide();
+  makeNewKey(); 
+}else{ 
+   $('#loginbox').hide();
+   $('#userbox').show();
+   getUserInfo();
+}
+
+function makeNewKey(){
+    var url = baseurl + "index.php?view=login&func=newkey" 
+          +"&rnd=" +Math.random();
+    
+    JQ(url, function(msg){  
+          if(msg.state=='ok'){ 
+             curkey = msg.key;
+             $('#loginkey').html(curkey);
+              timer = setInterval("checkLogin()",1500);
+          } 
+    });
+
+}
+
+function checkLogin(){
+	var url = baseurl + "index.php?view=login&func=checkkey&key=" + curkey
+	        +"&rnd=" +Math.random();
+    
+    JQ(url, function(msg){  
+      	  if(msg.state=='ok'){ 
+      	  	clearInterval(timer);
+      	  	myopenid = msg.openid;
+ 			$.cookie('openid',  myopenid, {expires: 366});
+ 			alert('登陆成功！！');
+ 			$('#loginbox').hide();
+ 			$('#userbox').show();
+ 			getUserInfo();
+      	  }else if(msg.state=='timeout'){ 
+      	  	location.reload();
+      	  } 
+    });
+}
+function getUserInfo(){ 
+   var url = baseurl + "index.php?view=login&func=state"
+	 		+'&openid=' + myopenid
+	        +"&rnd=" +Math.random();
+
+    JQ(url, function(msg){ 
+      	  if(msg.state=='ok'){  
+      	  	var data = msg.data;
+            var myinfo ='';
+            if(typeof(data.type)!='undefined' && data.type=='time'){
+                var d = new Date();
+                d.setTime(data.endtime * 1000);
+                var timestr = d.getFullYear() 
+                            +"-"+(d.getMonth() + 1)
+                            +'-'+d.getDate();
+                myinfo = "" + timestr;
+            }else{
+                myinfo=""+data.count+' ';
+            }
+      	  	$('#mycount').html(myinfo); 
+      	  }  
+     });
+}
+$('#logout').click(function(){ 
+	$.cookie('openid', '',{expires:-1});
+	location.reload();
+});
+$('#addcode').click(function(){ 
+	var code =$('#vipcode').val();
+	var url = baseurl + "index.php?view=login&func=setvipcode&code=" + code
+			+'&openid='+ myopenid
+	        +"&rnd=" +Math.random();
+
+    JQ(url, function(msg){ 
+      	  if(msg.state=='ok'){ 
+      	  	 getUserInfo();
+      	  	 alert('VIP添加正确');
+
+      	  } else{ 
+      	  	 alert('ERROR: ' + msg.msg);
+      	  } 
+    });
+
+});
+</script>

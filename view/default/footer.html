@@ -1,0 +1,69 @@
+
+ 	  
+ 	  
+<DIV class=clearfix id=footer>
+<P><a href="#">首页</a> | <a href="#">关于我们</a> | <a href="#">系统开发</a> | <A title=产品中心 
+href="#">产品中心</A> | <A 
+href="#">下载中心</A> | <A title=网站案例 
+href="#">网站案例</A> | <A title=联系我们 
+href="#">联系我们</A></P>
+<P><IMG 
+title=谷歌邮箱订阅 src="<?=$baseurl ?>imgs/icon05.png"></A> <IMG 
+title=分享到开心网 src="<?=$baseurl ?>imgs/icon04.png"> <IMG title=分享到腾讯微博 src="<?=$baseurl ?>imgs/icon03.png">  <IMG 
+title=分享到QQ空间 src="<?=$baseurl ?>imgs/icon02.png">  <IMG 
+title=分享到新浪微博 src="<?=$baseurl ?>imgs/icon01.png"> 
+</p>
+ 
+ </DIV></DIV>
+  
+
+</div> <!--mainbody-->
+  
+<div style='clear:both'></div>
+ <div id="msgbox" style="bottom:700px;display:none  ">  </div>
+ 
+ 
+
+<script>
+	function showmsg(msg)
+ 	  {
+ 	     $("#msgbox").html("<p>" + msg + "</p>");
+ 	      $("#msgbox").css('background','url(<?=$baseurl ?>imgs/ilayer3.gif)  no-repeat');
+ 	      $("#msgbox p").css('color','#c30'); 
+		   $("#msgbox").show();
+		   $("#msgbox").css('margin','10 auto');
+		   $("#msgbox").css('opacity','1');
+		    $("#msgbox").animate({bottom:"800px",opacity:"1"},2500 );
+		    $("#msgbox").animate({bottom:"600px",opacity:"0.5"},500,function(){$("#msgbox").hide();}); 
+		 //  $("#msgbox").animate({opacity:"0.5"},200,function(){$("#msgbox").hide();});	  	
+ 	  }
+ 	  function showOK(msg,callback)
+ 	  {
+ 	     $("#msgbox").html("<p>" + msg + "</p>");
+ 	      $("#msgbox").css('background','url(imgs/ilayer3x.png)  no-repeat');
+ 	      $("#msgbox p").css('color','#fff'); 
+		   $("#msgbox").show();
+		   $("#msgbox").css('opacity','1');
+		   $("#msgbox").animate({bottom:"800px",opacity:"1"},2500 );
+		   $("#msgbox").animate({bottom:"600px",opacity:"0.5"},500,function(){$("#msgbox").hide();
+		   	 if(callback) callback();
+		   	}); 	  	
+ 	  }
+ 	 function errorExit(msg,url)
+ 	 { url='#';
+ 	 	setTimeout("showmsg('"+msg+"');location.href='"+url+"';" , 1000); 	 	 
+ 	 }
+ 	 function errorWarning(msg)
+ 	 { setTimeout("showOK('"+msg+"');;" , 2000); 	 	 
+ 	 }
+<?
+if( $WarningMsg)
+echo "errorWarning('$WarningMsg');";
+
+if( $errorExit)
+echo "errorExit('$errorExit');";
+
+?>
+</script>
+
+</BODY></HTML>

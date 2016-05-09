@@ -1,0 +1,33 @@
+<style>
+	h1{font-size:16pt;line-height:24pt}
+	h2{margin-left:-15px;display:inline-block; font-size:10pt;}	
+</style>
+<br>
+<DIV style='margin-left:100px'>
+<h1>PHP代码加密常见问题</h1>
+<pre>
+	
+<h2>Q1:与zend6.0比，哪个加密更强？</h2>
+ 答：zend6更强  <a href='?view=index&sub=online.zend'>去试试&gt;&gt;</a>
+ 
+<h2>Q2:如何实现php代码版权保护(绑定域名,IP,限制时间等)？</h2>
+step1: 找到你工程的核心代码文件xxx.php
+step2: 在核心位置插入保护版权的代码(绑定域名,IP,限制时间等)
+step3: 加密xxx.php
+step4: 将加密后的xxx.php与_inc.php覆盖原来xxx.php所在文件夹
+ 
+<h2>Q3:如何加密htm，css文件？</h2>
+html/css文件：
+    方法1: 如果你的工程内的htm/css 文件是被php直接包含（include/require）， 可以直接用加密的htm去替换原来的文件即可。
+    方法2:  把你的html/css文件名，后缀修改为php， 加密后使用，如&lt;LINK   href="xxx.css.php" type=text/css rel=stylesheet &gt; 
+（如果你的网页终端是pc，说实话没有必要加密这类文件，或许你用一些混淆代码的方法就可以。
+如果你的网页终端是手机，你可以强制网页只在手机端浏览，这样加密就更有意义。）   
+
+<h2>Q5:保护版权代码举例:</h2>
+1.锁定域名，IP:
+      //获取当前域名 ，IP
+     $_SERVER['SERVER_NAME'];    
+     $_SERVER['HTTP_HOST'];
+     $ip = gethostbyname($_SERVER["SERVER_NAME"]); 
+(参考Q2)   
+</DIV>

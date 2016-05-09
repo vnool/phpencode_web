@@ -1,0 +1,228 @@
+<?php
+
+$makebaseurl = 'http://jp.biyike.com/phpencode/';
+if(is_file('debug.txt'))
+{
+	 //$makebaseurl = 'http://localhost/phpencode/zendenc/';
+}
+
+ 
+
+$brver = getBrowser();
+if($brver[0]=='IE' && $brver[1] < 9){ 
+
+  echo("<h1 style='font-size:20pt;text-align:center;margin:50px;20px'>请用IE以外的浏览器，或使用IE9+版本</h1>");
+}
+
+?>
+
+<DIV class=uploadmainbox style='margin-top:20px; padding:20px 50px'>
+<div style='margin-bottom:20px'><h1 style='font-size:12pt'>PHP代码(Zend)在线加密</h1></div>
+
+	
+<form action="<?=$makebaseurl ?>make.php" method="POST" enctype="multipart/form-data" onsubmit="return submitTest();">   
+
+<div  class=switch  style=';width:350px'>
+	<input type=hidden name=type value='files'>
+      <b class="on"><a href="#">多个文件加密</a><input type=radio name=type0 value='files'  checked >  </b>
+      <b><a href="#">代码打包加密(zip)</a><input type=radio name=type0 value='zip'></b>        
+</div>
+ 
+
+<div style='clear:both'> </div>
+
+<div id=boxzip class=boxbox  style='display:none'> 
+	 <div  style='margin-left:15px'>
+       请将需要加密的代码打包上传
+        <div style='display:none'> <input name="zipfile" type="file"  ></div>
+        <h2>不再提供此功能</h2>
+    </div>
+</div>
+ 
+<div id=boxfiles  class=boxbox>
+	
+  
+	<div id=filelistbox  style='margin-left:15px'>
+      1. <input name="userfile[]" type="file"  ><br>
+       &nbsp;&nbsp;&nbsp;大小：<input type=radio name=size value=1 checked> &lt;1M  
+     <input type=radio name=size value=999  disabled><span style='color:#ccc'>100M(vip)</span>
+ 
+    </div>
+    <div style='display:none'>
+       &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;不建议在一个工程中加密太多文件
+       <input name="add" type="button"   class=button value='+增加'  style='font-size:10pt;padding:0px 4px; '>
+   </div>
+</div>
+
+  
+ <div class=line>编码格式：<input type=radio name=charset value=utf8 checked>UTF-8 
+ <input type=radio name=charset value=gbk >GBK
+ </div>
+ 
+  <div class=line>PHP版本：<input type=radio name=php_ver value='5.4' checked>php5.4
+    <input type=radio name=php_ver value='5.3' >php5.3
+    <input type=radio name=php_ver value='5.2' disabled>php5.2
+ </div>
+ 
+ 
+ <div class=line>版权注释：<label><input type=checkbox name=copyrightDo    >自定义版权注释(vip)</label>
+ </div>
+<div class=line  id='cpbox' style=' display:none'>
+  &nbsp;&nbsp;&nbsp;&nbsp;版 权：<input type=text name=copyright  style='width:225px' value='encoded by http://phpc.sinaapp.com'  >
+<br>&nbsp;&nbsp;&nbsp;&nbsp;vip码：<input type=text name=vipcode    >
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<span style='color:green'>(vip随机算法，同一代码的任何2次加密结果都不同)</span>
+</div>
+ 
+  <div style='display:none'>类型：<input type=checkbox name=filter[] value=php  checked>php <input type=checkbox name=filter[] value='htm|html'  >html/htm  <input type=checkbox name=filter[] value='css|js'  >js/css 
+  </div>
+  
+ 
+  <div style='display:none'>标签：<input type=radio name=tagerr value=0>不加密  <input type=radio name=tagerr value=1  checked>自动追加php标签未闭合的代码
+  </div>
+<div class=line>域名限制：<input type=text name=lockdomain   style='width:220px' placeholder="多个域名间用分号';'隔开">
+</div>
+<div class=line>天数限制：<input type=text name=lockdays  value='-1'   style='width:40px' > 天&nbsp;&nbsp;(-1表示永远有效)
+</div>
+<div class=line>提交验证：<input type=text name=verifycheck style='width:60px'> 
+     <img height=32 src='<?=$makebaseurl ?>verify.php?<?=rand();?>'  id=verifyimg  title='点击刷新'>
+</div>
+<div class=line>
+	 <p style='margin-top:4px'><input type="submit" value="Zend 加密 | 下载 " class=button   ></p>
+</div>
+</form>
+<div><br>[声明]: 本工具不会以任何形式保存网友上传的代码<br> 
+	加密后的文件修改任意字符，则会停止运行
+</div>
+
+<br> 
+ 	友情连接：<A style='display:inline-block;padding:2px 6px;border:1px solid #bbb;border-radius:3px;border-top-color:#ddd;border-left-color:#ddd;background:#eee;cursor:pointer' 
+ 		href="?view=index&sub=online"> 无扩展在线加密 </A>
+</DIV>
+ 
+ <?php
+ $loaderurl['5.4linux32'] = $makebaseurl . 'ZendLoader/ZendGuardLoader-PHP-5.4-linux-glibc23-i386.tar.gz';
+ $loaderurl['5.4linux64'] = $makebaseurl . 'ZendLoader/ZendGuardLoader-PHP-5.4-linux-glibc23-x86_64.tar.gz';
+ $loaderurl['5.4win']       = $makebaseurl . 'ZendLoader/ZendGuardLoader-PHP-5.4-Windows-x86.zip';
+ $loaderurl['5.3linux32'] = $makebaseurl . 'ZendLoader/ZendGuardLoader-php-5.3-linux-glibc23-i386.tar.gz';
+ $loaderurl['5.3linux64'] = $makebaseurl . 'ZendLoader/ZendGuardLoader-php-5.3-linux-glibc23-x86_64.tar.gz';
+ $loaderurl['5.3win']       = $makebaseurl . 'ZendLoader/ZendGuardLoader-php-5.3-Windows.zip';
+ $loaderurl['5.2linux32'] = $makebaseurl .'ZendLoader/ZendOptimizer-3.3.9-linux-glibc23-i386.tar.gz';
+ $loaderurl['5.2linux64'] = $makebaseurl .'ZendLoader/ZendOptimizer-3.3.9-linux-glibc23-x86_64.tar.gz';
+ $loaderurl['5.2win']       = $makebaseurl .'ZendLoader/ZendOptimizer-3.3.3-Windows-i386.zip';
+ 
+ ?>
+ 
+ <div style='margin-left:80px;margin-top:20px; float:left'>
+ 	【Zend Loader扩展】: 
+ 	<br>使用Zend加密，你需要在php环境中添加ZendLoader扩展
+ 	<style> 
+ 		.loaderlisttab td{padding:5px; font-size:9pt}</style>
+  <table class=loaderlisttab  border="1" bordercolor=#999999 cellspacing="0" cellpadding="0" >  	
+  	<tr><td rowspan=3>php5.4</td><td rowspan=2>Linux</td><td><a href='<?=$loaderurl['5.4linux32']?>'>Linux 32位 下载</a></td></tr>
+  	<tr>                                                       <td><a href='<?=$loaderurl['5.4linux64']?>'>Linux 64位 下载</a></td></tr>
+  	<tr>                                            <td >Windows</td><td><a href='<?=$loaderurl['5.4win']?>'>Windows 下载</a></td></tr>
+                              
+  	<tr><td rowspan=3>php5.3</td><td rowspan=2>Linux</td><td><a href='<?=$loaderurl['5.3linux32']?>'>Linux 32位 下载</a></td></tr>
+  	<tr>                                                       <td><a href='<?=$loaderurl['5.3linux64']?>'>Linux 64位 下载</a></td></tr>
+  	<tr>                                            <td  >Windows</td><td><a href='<?=$loaderurl['5.3win']?>'>Windows 下载</a></td></tr>
+  	 <tr><td rowspan=3>&lt;php5.2</td><td rowspan=2>Linux</td><td><a href='<?=$loaderurl['5.2linux32']?>'>Linux 32位 下载</a></td></tr>
+  	<tr>                                                       <td><a href='<?=$loaderurl['5.2linux64']?>'>Linux 64位 下载</a></td></tr>
+  	<tr>                                            <td  >Windows</td><td><a href='<?=$loaderurl['5.2win']?>'>Windows 下载</a></td></tr>          
+  	 
+  	
+  </table>
+  如果你是用的<b>虚拟空间</b>，空间提供商一般都已经帮你配置好了。
+  
+ <div><br>【PHP.ini配置】:
+<br> php5.3及以后
+<br>zend_extension=ext/ZendLoader.dll 
+<br>zend_loader.enable=1 
+<br>zend_loader.disable_licensing=0 
+<br>zend_loader.obfuscation_level_support=3 
+<br>zend_loader.license_path= 
+</div><div style='margin-top:10px'>php5.2及以前
+<br>zend_optimizer.optimization_level=15
+<br>zend_optimizer.encoder_loader=1
+<br>zend_extension_ts="php/lib/ZendExtensionManager.dll"
+<br>zend_extension_manager.optimizer_ts="php/lib/Optimizer-3.3.3/"
+</div><br> 
+ 	 
+ 	 
+</div>
+ 
+ 
+ <div  style='clear:both;margin-top:30px' >
+ <table width=100%><tr style='font-size:12pt;color:#39d;font-weight:bold'><td align=center>加密前</td><td align=center>加密后</td></tr></table>
+    <div style='height:300px;overflow:hidden'>&nbsp;&nbsp;&nbsp;&nbsp;
+  	   <img src='<?=$baseurl ?>imgs/before.jpg'><img src='<?=$baseurl ?>imgs/later.jpg'>
+    </div>
+ <div>
+ 	
+ 	
+ 
+ 
+ 
+<script>
+	function submitTest(){
+	  var thisval=  $("input[name=type]").val();
+	  if(thisval=='files') {
+	  	 $('input[name=zipfile]').val('');
+	  }else{
+	  	 $('#filelistbox input[type=file]').val('');
+	  }
+	  
+	  showmsg("使劲加密中....");
+	  setTimeout('freshVerifycode();', 1000);
+	  
+	  //return false;
+	}
+	function freshVerifycode(){
+		$('#verifyimg').attr('src', '<?=$makebaseurl ?>verify.php?'+Math.random());
+	}
+$(function(){
+	$('#verifyimg').click(function(){
+		 freshVerifycode();
+	});
+	
+    $("div.switch b").click(function(){
+    	 $("div.switch").find("input[type=radio]").attr("checked",false); 
+        $("div.switch b").removeClass("on");
+        $(this).addClass("on"); 
+        $(this).find("input[type=radio]").attr("checked","checked"); 
+        $(this).find("input[type=radio]").change();
+    });
+});	
+
+
+
+ $("input[name=type0]").change(function(){
+ 	$('.boxbox').hide();
+ 	var thisval = $(this).attr('value');
+ 	$("input[name=type]").val(thisval);
+ 	
+ 	if(thisval=='files') 	
+ 	{    
+ 		$('#boxfiles').show();
+ 	}else{
+ 		$('#boxzip').show();
+ 	}
+
+ 	
+});
+
+	var filecount =1;
+	$('input[name=add]').click(function(){
+		return;
+		 //不再提供此功能
+		filecount++;
+		if(filecount >9) return;
+		var THML= filecount +". <input name='userfile[]' type='file'><br>";
+	    $('#filelistbox').append(THML);
+		
+	});
+	
+	$('input[name=copyrightDo]').click(function(){
+		 $('#cpbox').show();		
+	});	
+	
+</script>

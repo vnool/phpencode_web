@@ -1,0 +1,261 @@
+<?php
+
+$brver = getBrowser();
+if($brver[0]=='IE' && $brver[1] < 9){ 
+
+  echo("<h1 style='font-size:20pt;text-align:center;margin:50px;20px'>请用IE以外的浏览器，或使用IE9+版本</h1>");
+}
+
+?>
+
+　
+<div style='margin-left:570px'><h1 style='font-size:12pt'>PHP代码在线加密</h1></div>
+<DIV class=uploadmainbox style=''>
+<form action="<?=$baseurl ?>make.php" method="POST" enctype="multipart/form-data" onsubmit="return submitTest();">   
+
+<div  class=switch  style=';width:350px'> 
+      <b class="on"><a href="#">多个文件加密</a><input type=radio name=type value='files'  checked >  </b>
+      <b><a href="#">代码打包加密(zip)</a><input type=radio name=type value='zip'></b>        
+</div>
+ 
+
+<div style='clear:both'> </div>
+
+<div id=boxzip class=boxbox  style='display:none'> 
+	 <div  style='margin-left:15px'>
+       请将需要加密的代码打zip包上传
+        <div style='display:none' id='zipinputbox'> <input name="zipfile" type="file"  ></div>
+        <h2>仅vip提供批量上传功能</h2>
+    </div>
+</div>
+ 
+<div id=boxfiles  class=boxbox>
+	
+  
+	<div id=filelistbox  style='margin-left:15px'>
+      1. <input name="userfile[]" type="file"  > 
+    </div>
+    <div style='height:30px;text-align:right;padding-right: 10px;' > 
+       <span id='tipaddmore'>vip可增加文件数</span>
+       <input style='display:none' id='addmorebtn' name="add" type="button"  
+        class=button value='+增加文件'  style='float:right;font-size:10pt;padding:0px 4px;'>
+       
+   </div>
+    
+</div>
+
+  
+ <div class=line>编码格式：<input type=radio name=charset value=utf8 checked>UTF-8
+ <input type=radio name=charset value=gbk >GBK
+ </div><!-- <br>提示：<input type=checkbox name=alert  >6个月后提醒我更新加密 -->
+ <div class=line>版权注释：<input type=text name=copyright  style='width:225px;color:#999' 
+	      readonly title='VIP登陆后可修改' value='encoded by http://phpc.sinaapp.com'  >
+     <p style='margin-left:60px'><label><input type=checkbox name=copyrightDo    >自定义版权注释(vip)</label></p>
+ </div>
+
+<div class=line  id='copyrightbox' 
+style=' display:none;margin-left: 0px;padding:8px;border: 1px dashed #C7C1C1;'>
+	 
+    <input type=hidden name='openid' >
+    <div class='guestinfo' style="margin-left:55px;height:60px;padding-bottom: 10px;" >
+	   <span style='display:inline-block; '>登陆VIP后可修改版权</span><br>
+        <span style='display:inline-block; '>同一代码的任何2次加密结果都不同</span><br>
+	   <a type=button class=button href="index.php?view=index&sub=login" value='会员登陆'>会员登陆</a>
+	</div>
+	<div class='myinfo' style="margin-left:40px" >
+		
+	</div>
+
+</div>
+ 
+  <div style='display:none'>类型：<input type=checkbox name=filter[] value=php  checked>php <input type=checkbox name=filter[] value='htm|html'  >html/htm  <input type=checkbox name=filter[] value='css|js'  >js/css 
+  </div>
+  
+ <div class=line>加密信息：<input type=checkbox name=incrun  checked>生成_inc.php(高效)
+</div>
+  <div style='display:none'>标签：<input type=radio name=tagerr value=0>不加密  <input type=radio name=tagerr value=1  checked>自动追加php标签未闭合的代码
+  </div>
+<div class=line>域名限制：<input type=text name=lockdomain   style='width:220px' placeholder="多个域名间用分号';'隔开">
+</div>
+<div class=line>天数限制：<input type=text name=lockdays  value='-1'   style='width:40px' > 天&nbsp;&nbsp;(-1表示永远有效)
+</div>
+<div class=line>提交验证：<input type=text name=verifycheck style='width:60px'> 
+     <img height=32 src='<?=$baseurl ?>verify.php?<?=rand();?>'  id=verifyimg  title='点击刷新'>
+</div>
+<div class=line>
+	 <p style='margin-top:4px'><input type="submit" value="加密 | 下载.." class=button  style='vertical-align: bottom;' >
+	 	&nbsp;&nbsp;<A style='display:inline-block;padding:2px 8px;border:1px solid #bbb;border-radius:3px;
+	 		border-top-color:#ddd;border-left-color:#ddd;background:#eee;cursor:pointer; '
+ 		href="?view=index&sub=online.zend"> Zend 在线加密 </A>
+ 	</p>
+</div>
+</form>
+<div><br>[声明]: 本工具不会以任何形式保存网友上传的代码<br> 
+	加密后的文件修改任意字符，则会停止运行
+</div>
+</DIV>
+ 
+ 
+ <div style='margin-left:80px;margin-top:20px;width:350px;float:left'>
+ 	【永久免费】:<ul  style='margin-left:22px'>
+ 		<li style='list-style:disc'>自解码与支持库解码
+<li style='list-style:disc'>批量加密(建议)
+<li style='list-style:disc'>独特的加密算法
+<li style='list-style:disc'>代码自我保护
+<li style='list-style:disc'>可加密任何被php包含的文件(html,css,js等)
+ 	</ul>
+ <br>【版权保护方法举例】:<ul  style='margin-left:22px'>
+		<li style='list-style:disc'>加密核心算法，核心流程，加密mysql账号
+		<li style='list-style:disc'>锁定服务器IP，域名
+		<li style='list-style:disc'>锁定代码可运行日期范围
+		<li style='list-style:disc'>锁定日访问量，总访问量
+		<li style='list-style:disc'>锁定代码文件名 
+		<li style='list-style:disc'>锁定提示文本
+ 	</ul>
+ 	<br> 
+ 	友情连接：<A style='display:inline-block;padding:2px 6px;border:1px solid #bbb;border-radius:3px;border-top-color:#ddd;border-left-color:#ddd;background:#eee;cursor:pointer' 
+ 		href="?view=index&sub=online.zend"> Zend 在线加密 </A>
+ </div>
+ 
+ 
+ <div  style='clear:both;margin-top:30px' >
+ <table width=100%><tr style='font-size:12pt;color:#39d;font-weight:bold'><td align=center>加密前</td><td align=center>加密后</td></tr>
+ </table>
+    <div style='height:300px;overflow:hidden'>&nbsp;&nbsp;&nbsp;&nbsp;
+  	   <img src='<?=$baseurl ?>imgs/before.jpg'><img src='<?=$baseurl ?>imgs/later.jpg'>
+    </div>
+ </div>  
+ 	
+ 
+ 
+ 
+<script>
+	function submitTest(){
+	  var thisval=  $("input[name=type]").val();
+	  if(thisval=='files') {
+	  	 $('input[name=zipfile]').val('');
+	  }else{
+	  	 $('#filelistbox input[type=file]').val('');
+	  }
+	  
+	  showmsg("使劲加密中....");
+	  setTimeout('freshVerifycode();', 1000);
+	  
+	  //return false;
+	}
+	function freshVerifycode(){
+		$('#verifyimg').attr('src', '<?=$baseurl ?>verify.php?'+Math.random());
+	}
+$(function(){
+	$('#verifyimg').click(function(){
+		 freshVerifycode();
+	});
+	
+    $("div.switch b").click(function(){
+    	 $("div.switch").find("input[type=radio]").attr("checked",false); 
+        $("div.switch b").removeClass("on");
+        $(this).addClass("on"); 
+        $(this).find("input[type=radio]").attr("checked","checked"); 
+        $(this).find("input[type=radio]").change();
+    });
+});	
+
+
+
+ $("input[name=type]").change(function(){
+ 	$('.boxbox').hide();
+ 	var thisval = $(this).attr('value');
+ 	$("input[name=type]").val(thisval);
+ 	
+ 	if(thisval=='files') 	
+ 	{    
+ 		$('#boxfiles').show();
+    $('#addmorebtn').show();
+ 	}else{
+ 		$('#boxzip').show();
+    $('#addmorebtn').hide();
+ 	}
+
+ 	
+});
+
+var filecount =1;
+$('input[name=add]').click(function(){
+	 
+	filecount++;
+	if(filecount >9) return;
+	var THML= filecount +". <input name='userfile[]' type='file'><br>";
+    $('#filelistbox').append(THML);
+	
+});
+
+$('input[name=copyrightDo]').click(function(){
+
+	if($(this).prop('checked'))
+	 $('#copyrightbox').show();
+	else
+	 $('#copyrightbox').hide();	
+});	
+	
+
+
+</script>
+<script> 
+	var baseurl="<?=$baseurl?>";
+	var curkey = "<?=$loginkey?>";
+    var myopenid = $.cookie('openid');
+if(myopenid!=undefined && myopenid.length < 8){ 
+	//无用户登录
+}else{ 
+   checkLoginState();
+}
+
+
+function checkLoginState(){
+	var url = baseurl + "index.php?view=login&func=state"
+	 		+'&openid=' + myopenid;
+
+    JQ(url,  function(msg){ 
+      	  if(msg.state=='ok'){ //登陆成功
+      	  	//设置状态
+            var data = msg.data;
+      	  	var myinfo ='VIP:&nbsp;';
+            if(typeof(data.type)!='undefined' && data.type=='time'){
+                var d = new Date();
+                d.setTime(data.endtime * 1000);
+                var timestr = d.getFullYear() 
+                            +"-"+(d.getMonth() + 1)
+                            +'-'+d.getDate();
+                myinfo += "到期时间: " + timestr;
+            }else{
+                myinfo+="点数剩余:"+data.count+' 次';
+            }
+      	  	
+      	  	
+
+            var tologin =  "index.php?view=index&sub=login";
+      	  	myinfo +="&nbsp;&nbsp;<a href='"+tologin +"'>查看账户</a>"
+      	  	$('#copyrightbox .myinfo').html(myinfo);
+      	  	$('#copyrightbox [name=openid]').val(myopenid);
+            d= new Date();
+            var leftday = data.endtime*1000 - d.getTime();
+      	  	vipshow(data.count || leftday);
+      	  } 
+    });
+}
+function vipshow(okvip){  
+ 	$('#copyrightbox .myinfo').show(); 
+  	$('#copyrightbox .guestinfo').hide();
+
+  	if(okvip > 0){ 
+  		$('input[name=copyright]').css('color', '#000');
+  		$('input[name=copyright]').attr('readonly', false);
+		$('#zipinputbox').show();
+		$('#addmorebtn').show();$('#addmorebtn').css('padding','0px 4px');
+		$('#tipaddmore').hide();
+    $('#copyrightbox').show();
+    $('input[name=copyrightDo]').attr('checked', 'checked');
+  	}
+}
+
+</script>

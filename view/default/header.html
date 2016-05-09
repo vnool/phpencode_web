@@ -1,0 +1,88 @@
+<?
+
+$baseurl = 'http://ding.scicompound.com/phpencode/';
+
+if(is_file('debug.txt'))
+{
+	$baseurl = 'http://localhost/phpc/';
+}
+//$makeurl='make.php';
+?><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML><HEAD><TITLE>php加密</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="qc:admins" content="526206640036316110063757" />
+<META content="php加密,php在线加密,php代码加密" name=keywords> 
+<LINK media=screen href="<?=$baseurl ?>imgs/index_style.css" type=text/css rel=stylesheet>
+<SCRIPT src="<?=$baseurl ?>imgs/jquery-1.9.1.min.js" type=text/javascript></SCRIPT>
+<SCRIPT src="<?=$baseurl ?>imgs/jquery.cookie.js" type=text/javascript></SCRIPT>
+ <script>
+ 	$.ajaxSetup({ajaxSettings:{ contentType:"application/x-www-form-urlencoded;chartset=utf-8"} }); 
+ 	
+ 	JQ=function(url, func){ 
+ 	   url += "&rnd=" +Math.random();
+       $.ajax({
+	     type: 'GET',
+	      url: url , 
+	      dataType: "jsonp",
+	      success: function(msg){  
+	      	   func(msg);	          
+	      }     
+	    });
+ 	}
+ </script>  
+<style>
+	.button.a:hover{color: #fff};
+</style>
+<META content="MSHTML 6.00.6000.16945" name=GENERATOR></HEAD>
+<BODY>
+<DIV id=wrap>
+
+<?
+$names = explode(';','index;about;online;help;support;contact');
+foreach($names as $n){
+  $linkface[$n]='';
+}
+$act =$APP_SUB;
+if(in_array($act,$names))
+$linkface[$act]='class=active';
+ 
+ 
+ $title='PHP代码在线加密';
+ if($_GET['sub']=='online.zend') $title='php zend在线加密';
+?>
+ 
+<DIV class="head zoom">
+<DIV class=top_k>
+<IMG alt=" " src="imgs/php.jpg"><H1 id=logo ><?=$title?></H1>
+
+<div class=loginbox style='display:none'> <a href='?act=entry.login'>登陆</a>
+<a href='?act=entry.reg'>注册</a>
+<!--a href='?act=entry.login&do=logout'>注销</a-->
+</div>
+</DIV>
+ 
+<DIV id=menu>
+<DIV id=top style="HEIGHT: 37px">
+<div class=itembox>
+<UL id=item>
+  <LI id=item1   <?=$linkface['index']?> ><A href="?"><SPAN>首页</SPAN></A> </LI>
+  <LI  <?=$linkface['online']?> id=item3><A  
+  href="?view=index&sub=online"><SPAN>在线加密</SPAN></A> </LI>
+<LI <?=$linkface['help']?> id=item2><A   
+  href="?view=index&sub=help"><SPAN>常见问题</SPAN></A> </LI>  
+  <LI  <?=$linkface['contact']?> id=item4><A title='' 
+  href="?view=index&sub=contact"><SPAN>技术支持</SPAN></A> </LI>
+  	  <LI   id=item0 style='width: 200px;'><A   
+  href="http://phpdesktop.sinaapp.com/"><SPAN>PHP Desktop Application</SPAN></A> </LI>  
+
+   </UL>
+ </div>
+   	
+</DIV>
+</DIV></DIV>
+
+
+
+<div class=mainbody>
