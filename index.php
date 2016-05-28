@@ -1,6 +1,20 @@
 <?php 
 error_reporting(E_ALL^E_NOTICE);
 date_default_timezone_set('PRC');
+ 
+ 
+
+$baseurl = 'http://ding.scicompound.com/phpencode/';
+
+if(is_file('debug.txt'))
+{
+	$baseurl = 'http://localhost/phpc/';
+}
+ 
+
+
+
+
 global $APP_VIEW,$APP_MOD,$APP_SUB;
 global $APP_TEMPLATE;
 

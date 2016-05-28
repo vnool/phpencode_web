@@ -1,1 +1,0 @@
- //PHP encode class
