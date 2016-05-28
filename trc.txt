@@ -1,0 +1,38 @@
+2016-05-29 01:26:29
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'emcs',
+  '_ga' => 'GA1.1.10353467.1458655474',
+  'mp_new_user33482_1000119' => '1',
+  'PHPSESSID' => 'gnjvdrt3nddngqapcdh0tkglj3',
+)
+2016-05-29 01:26:29
+array (
+  'type' => 'files',
+  'charset' => 'utf8',
+  'copyright' => 'encoded by http://phpc.sinaapp.com',
+  'openid' => '',
+  'filter' => 
+  array (
+    0 => 'php',
+  ),
+  'incrun' => 'on',
+  'tagerr' => '1',
+  'lockdomain' => '',
+  'lockdays' => '-1',
+  'verifycheck' => 'emcs',
+  '_ga' => 'GA1.1.10353467.1458655474',
+  'mp_new_user33482_1000119' => '1',
+  'PHPSESSID' => 'gnjvdrt3nddngqapcdh0tkglj3',
+)
