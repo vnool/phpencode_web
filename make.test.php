@@ -13,4 +13,4 @@ $ENC -> fixedkey();
 
 $ENC -> curdomain = 'phpclib';
 $ENC -> makeinc = true; //new inc 
-$ENC -> folder2folder('from/', 'to/');
+$ENC -> folder2folder('test.from/', 'test.to/');
