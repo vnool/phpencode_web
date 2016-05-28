@@ -1,6 +1,6 @@
 <?php
 
-include('../phpEncode.class.php');
+include('phpEncode.class.php');
 
 $originalcode = '<?php
 echo "hi";
