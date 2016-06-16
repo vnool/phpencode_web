@@ -22,10 +22,10 @@ if($brver[0]=='IE' && $brver[1] < 9){
 <div style='clear:both'> </div>
 
 <div id=boxzip class=boxbox  style='display:none'> 
-	 <div  style='margin-left:15px'>
+	 <div  style='margin-left:15px;padding-bottom:15px'>
        请将需要加密的代码打zip包上传
         <div style='display:none' id='zipinputbox'> <input name="zipfile" type="file"  ></div>
-        <h2>仅vip提供批量上传功能</h2>
+        <h2>仅vip提供批量上传功能(<a href='<?=$baseurl ?>?view=index&sub=login' style='color:#0e73c3'>登录</a>)</h2>
     </div>
 </div>
  
@@ -36,7 +36,7 @@ if($brver[0]=='IE' && $brver[1] < 9){
       1. <input name="userfile[]" type="file"  > 
     </div>
     <div style='height:30px;text-align:right;padding-right: 10px;' > 
-       <span id='tipaddmore'>vip可增加文件数</span>
+       <span id='tipaddmore'>vip可增加文件数(<a href='<?=$baseurl ?>?view=index&sub=login'  style='color:#0e73c3'>登录</a>)</span>
        <input style='display:none' id='addmorebtn' name="add" type="button"  
         class=button value='+增加文件'  style='float:right;font-size:10pt;padding:0px 4px;'>
        
@@ -83,7 +83,8 @@ style=' display:none;margin-left: 0px;padding:8px;border: 1px dashed #C7C1C1;'>
      <img height=32 src='<?=$baseurl ?>verify.php?<?=rand();?>'  id=verifyimg  title='点击刷新'>
 </div>
 <div class=line>
-	 <p style='margin-top:4px'><input type="submit" value="加密 | 下载.." class=button  style='vertical-align: bottom;' >
+	 <p style='margin-top:4px'><input type="submit" value="加密 | 下载.." class=button  
+   style='vertical-align: bottom;cursor: pointer;' >
 	 	&nbsp;&nbsp;<A style='display:inline-block;padding:2px 8px;border:1px solid #bbb;border-radius:3px;
 	 		border-top-color:#ddd;border-left-color:#ddd;background:#eee;cursor:pointer; '
  		href="?view=index&sub=online.zend"> Zend 在线加密 </A>

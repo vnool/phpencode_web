@@ -1,4 +1,13 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<?
+
+$baseurl = 'http://ding.scicompound.com/phpencode/';
+
+if(is_file('debug.txt'))
+{
+	$baseurl = 'http://localhost/phpc/';
+}
+//$makeurl='make.php';
+?><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 
 <HTML><HEAD><TITLE>php加密</TITLE>
 <META http-equiv=Content-Type content="text/html; charset=utf-8">
@@ -24,6 +33,7 @@
  	}
  </script>  
 <style>
+   *{font-family: 'Microsoft Yahei'}
 	.button.a:hover{color: #fff};
 </style>
 <META content="MSHTML 6.00.6000.16945" name=GENERATOR></HEAD>
